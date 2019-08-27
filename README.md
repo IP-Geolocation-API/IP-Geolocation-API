@@ -1,4 +1,4 @@
-<h1>IP Geolocation API  - PHP SDK</h1>
+<h1>IP Geolocation API</h1>
 
 <h2>Overview</h2>
 
