@@ -6,6 +6,7 @@ Use the <a href="https://ipwhois.io">IP Location</a> API to quickly and simply i
 You can use ipwhois.io to filter out bot traffic, customize content based on visitor's location, display full country names, perform bulk IP geolocation, and more.
 
 Readthedocs: https://readthedocs.org/projects/ip-geolocation/
+Dev.to: https://dev.to/ipwhoisio/ip-geolocation-and-ip-location-lookup-api-oj0
 
 <h2>Quick Start Guide</h2>
 
